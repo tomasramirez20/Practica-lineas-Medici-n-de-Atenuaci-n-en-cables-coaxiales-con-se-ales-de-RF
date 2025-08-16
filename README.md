@@ -1,1 +1,2 @@
-# Practica-lineas-Medici-n-de-Atenuaci-n-en-cables-coaxiales-con-se-ales-de-RF
+# Practica-lineas Medición de Atenuación en cables coaxiales con señales de RF
+###Aqui se puede encontrar los archivos .PDF en los cuales se registra la pratica 1 de laboratorio, para la materia de lines de comunicaciones opticas, dentro de "imagenes" se puede evidenciar los datos tomados y expuestos dentro del informe, en el anterior solo se encuentran un par de imagenes (primera y ultima frecuencia). si se quiere ver las imagenes por completo de como se tabularon las muestras que se encuentran en el informe, en el archivo "imagenes"
